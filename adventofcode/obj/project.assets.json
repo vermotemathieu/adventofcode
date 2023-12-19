@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\adventofcode\\adventofcode1\\adventofcode1.csproj",
-      "projectName": "adventofcode1",
-      "projectPath": "C:\\repos\\adventofcode\\adventofcode1\\adventofcode1.csproj",
+      "projectUniqueName": "C:\\repos\\adventofcode\\adventofcode\\adventofcode.csproj",
+      "projectName": "adventofcode",
+      "projectPath": "C:\\repos\\adventofcode\\adventofcode\\adventofcode.csproj",
       "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\adventofcode\\adventofcode1\\obj\\",
+      "outputPath": "C:\\repos\\adventofcode\\adventofcode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
