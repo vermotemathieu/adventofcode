@@ -1,0 +1,15 @@
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\bin\Debug\net6.0\adventofcode1.exe
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\bin\Debug\net6.0\puzzleinput.txt
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\bin\Debug\net6.0\adventofcode1.deps.json
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\bin\Debug\net6.0\adventofcode1.runtimeconfig.json
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\bin\Debug\net6.0\adventofcode1.dll
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\bin\Debug\net6.0\adventofcode1.pdb
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.AssemblyInfo.cs
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.dll
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\refint\adventofcode1.dll
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.pdb
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\adventofcode1.genruntimeconfig.cache
+C:\Users\mathi\source\repos\adventofcode\adventofcode1\obj\Debug\net6.0\ref\adventofcode1.dll
