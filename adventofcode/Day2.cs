@@ -94,20 +94,11 @@ namespace adventofcode
                         string cubesnumber = cubes.Replace("red", "").Replace("green", "").Replace("blue", "").Replace(" ", "");
 
                         if (cubes.Contains("blue"))
-                        {
                             day2SetOfCubes.Color = CubeColor.Blue;
-                            //game.NumberBlue += Int32.Parse(cubesnumber);
-                        }
                         else if (cubes.Contains("green"))
-                        {
                             day2SetOfCubes.Color = CubeColor.Green;
-                            //game.NumberGreen += Int32.Parse(cubesnumber);
-                        }
                         else if (cubes.Contains("red"))
-                        {
                             day2SetOfCubes.Color = CubeColor.Red;
-                            //game.NumberRed += Int32.Parse(cubesnumber);
-                        }
 
 
                         day2SetOfCubes.NumberOfCubes = Int32.Parse(cubesnumber);
@@ -130,10 +121,6 @@ namespace adventofcode
     internal class Day2Game
     {
         public int GameNumber { get; set; }
-
-        //public int NumberRed { get; set; }
-        //public int NumberBlue { get; set; }
-        //public int NumberGreen { get; set; }
 
         public List<Day2GameSet> Sets { get; set; }
 
