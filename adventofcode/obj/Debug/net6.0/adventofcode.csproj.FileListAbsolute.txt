@@ -1,5 +1,4 @@
 C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.exe
-C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\puzzleinput.txt
 C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.deps.json
 C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.runtimeconfig.json
 C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\adventofcode.dll
@@ -13,3 +12,5 @@ C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\refint\adventofcode.dll
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.pdb
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.genruntimeconfig.cache
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\ref\adventofcode.dll
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day1.txt
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day2.txt

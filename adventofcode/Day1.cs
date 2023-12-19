@@ -10,7 +10,7 @@ namespace adventofcode
     {
         public static int Part1()
         {
-            var lines = File.ReadAllLines("puzzleinput.txt");
+            var lines = File.ReadAllLines("input/Day1.txt");
 
             var sum = 0;
 
@@ -33,7 +33,7 @@ namespace adventofcode
         public static int Part2()
         {
 
-            var lines = File.ReadAllLines("puzzleinput.txt");
+            var lines = File.ReadAllLines("input/Day1.txt");
 
             var sum = 0;
 

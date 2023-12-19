@@ -6,4 +6,11 @@ Console.WriteLine("------------------------------------");
 
 Console.WriteLine("Output Day1 - Part 1: {0}", Day1.Part1());
 Console.WriteLine("Output Day1 - Part 2: {0}", Day1.Part2());
+Console.WriteLine("- - - ");
+Console.WriteLine("Output Day2 - Part 1: {0}", Day2.Part1());
+Console.WriteLine("Output Day2 - Part 2: {0}", Day2.Part2());
+Console.WriteLine("- - - ");
 
+
+
+Console.WriteLine("------------------------------------");
