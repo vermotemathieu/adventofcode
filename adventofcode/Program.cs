@@ -10,6 +10,7 @@ Console.WriteLine("- - - ");
 Console.WriteLine("Output Day2 - Part 1: {0}", Day2.Part1());
 Console.WriteLine("Output Day2 - Part 2: {0}", Day2.Part2());
 Console.WriteLine("- - - ");
+Console.WriteLine("Output Day3 - Part 1: {0}", Day3.Part1());
 
 
 

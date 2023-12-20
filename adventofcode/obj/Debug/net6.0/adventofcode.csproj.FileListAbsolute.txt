@@ -14,3 +14,4 @@ C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.genruntimeconfi
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\ref\adventofcode.dll
 C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day1.txt
 C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day2.txt
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day3.txt
