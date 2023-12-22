@@ -32,6 +32,14 @@ namespace adventofcode
 
             return output;
         }
+        public static int Part2()
+        {
+            int output = 0;
+
+            //TODO
+
+            return output;
+        }
 
         private static bool AdjacentToASymbol(Match match, string inputText, string[] inputLines)
         {
