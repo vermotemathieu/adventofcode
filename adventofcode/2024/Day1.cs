@@ -28,18 +28,13 @@ namespace adventofcode._2024
             lLeft.Sort();
             lRight.Sort();
 
-
             int totalDistance = 0;
 
             for (int i = 0; i < lines.Count(); i++)
             {
                 var distance = Math.Abs(lLeft[i] - lRight[i]);
-
-
                 totalDistance += distance;
             }
-
-
 
             return totalDistance;
         }
