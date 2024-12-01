@@ -4,6 +4,9 @@ using adventofcode;
 Console.WriteLine("Hello, World!");
 Console.WriteLine("------------------------------------");
 
+
+// 2023
+/*
 Console.WriteLine("Output Day1 - Part 1: {0}", Day1.Part1());
 Console.WriteLine("Output Day1 - Part 2: {0}", Day1.Part2());
 Console.WriteLine("- - - ");
@@ -14,7 +17,10 @@ Console.WriteLine("Output Day3 - Part 1: {0}", Day3.Part1());
 Console.WriteLine("Output Day3 - Part 2: {0}", Day3.Part2());
 Console.WriteLine("- - - ");
 Console.WriteLine("Output Day4 - Part 1: {0}", Day4.Part1());
+*/
 
+//2024
+Console.WriteLine("Output Day1 - Part 1: {0}", adventofcode._2024.Day1.Part1());
 
 
 Console.WriteLine("------------------------------------");

@@ -8,18 +8,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="input\day4.txt">
+    <None Update="2023\input\day4.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="input\day3.txt">
+    <None Update="2023\input\day3.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="input\day2.txt">
+    <None Update="2023\input\day2.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="input\day1.txt">
+    <None Update="2023\input\day1.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="2024\input\day1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="2024\input\" />
   </ItemGroup>
 
 </Project>

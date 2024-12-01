@@ -12,7 +12,9 @@ C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\refint\adventofcode.dll
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.pdb
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.genruntimeconfig.cache
 C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\ref\adventofcode.dll
-C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day1.txt
-C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day2.txt
-C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day3.txt
-C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\input\day4.txt
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\2023\input\day1.txt
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\2023\input\day2.txt
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\2023\input\day3.txt
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\2023\input\day4.txt
+C:\repos\adventofcode\adventofcode\obj\Debug\net6.0\adventofcode.sourcelink.json
+C:\repos\adventofcode\adventofcode\bin\Debug\net6.0\2024\input\day1.txt
